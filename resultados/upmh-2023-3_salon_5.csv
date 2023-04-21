@@ -1,0 +1,17 @@
+Horario del salon 5
+ 
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,APE-1D,,,,,
+8-9,APE-1D,,,,I1-1A,
+9-10,I1-1A,,I1-1A,I1-1A,,
+10-11,I1-1A,,I1-1A,I1-1A,,
+11-12,,,,,,
+12-13,TIAT-4B,,AL-1B,TIAT-4A,MCO-4A,
+13-14,TIAT-4B,,AL-1C,TIAT-4A,MCO-4A,
+14-15,VS-1A,,AL-1C,AL-1A,FCS-1A,
+15-16,FCS-1A,,,AL-1A,AL-1B,
+16-17,MCO-4A,,HP-4C,FCS-1A,AL-1B,
+17-18,MCO-4A,,,,STFC-4B,
+18-19,,,,,STFC-4B,
+19-20,,,I4-4B,,,
+20-21,,,,,,

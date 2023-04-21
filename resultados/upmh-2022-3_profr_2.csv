@@ -1,0 +1,35 @@
+Horario del profesor 
+Profesor 3
+ 
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,,,,,,
+12-13,LP 4A,LP 4C,,,LP 4B,
+13-14,,LP 4C,,LP 4B,LP 4B,
+14-15,,LP 4A,TGTI1 1B,,TGTI9 9A,
+15-16,LP 4C,,LP 4C,,,
+16-17,TGTI1 1B,TGTI9 9A,,LP 4A,LP 4A,
+17-18,,,,LP 4A,,
+18-19,LP 4B,LP 4B,,,LP 4C,
+19-20,,,,,,
+20-21,,,,,,
+
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,,,,,,
+12-13,1,1,,,1,
+13-14,,1,,1,1,
+14-15,,1,1,,1,
+15-16,1,,1,,,
+16-17,1,1,,1,1,
+17-18,,,,1,,
+18-19,1,1,,,1,
+19-20,,,,,,
+20-21,,,,,,
+TGTI1:2,LP:0,LP:0,LP:0,TGTI9:4,

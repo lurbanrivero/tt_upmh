@@ -1,0 +1,89 @@
+Clave,Grupo,Curso,Profesor,Lunes,Martes,Miercoles,Jueves,Viernes,L-rho,M-rho,Mi-rho,Ju-rho,Vi-rho,L-phi,M-phi,Mi-phi,Ju-Phi,Vi-Phi
+TGTI0,0B,Tutoría Grupal - Individual,Tatiana Flores,12--13,-,12--13,-,-,0.833,0,0.833,0,0,4,0,4,0,0
+TGTI0,0C,Tutoría Grupal - Individual,Tatiana Flores,-,-,-,12--13,12--13,0,0,0,1.026,1.212,0,0,0,6,1
+TGTI6,6A,Tutoría Grupal - Individual,Eduardo Cruz Aldana,-,15--16,-,15--16,-,0,0.921,0,0.729,0,0,3,0,4,0
+TGTI6,6B,Tutoría Grupal - Individual,Eduardo Cruz Aldana,15--16,-,-,-,15--16,0.921,0,0,0,0.729,3,0,0,0,4
+FEP,9A,Formulación y Evaluación de Proyectos,Eduardo Cruz Aldana,-,8--9,14--15,7--9,7--8,0,0.879,0.763,0.879,0.879,0,1,3,1,1
+FEP,9B,Formulación y Evaluación de Proyectos,Eduardo Cruz Aldana,9--10,7--8,11--12,-,9--11,0.879,0.604,0.879,0,0.967,1,4,1,0,2
+FEP,9C,Formulación y Evaluación de Proyectos,Eduardo Cruz Aldana,7--9,-,7--8,9--10,8--9,0.967,0,0.604,0.604,0.604,2,0,4,4,4
+TIPCI,3B,TI Aplicadas a la Planeación y Control de Inventarios,Myrna Lezama,16--18,-,17--18,16--17,15--16,1,0,1,1,1,1,0,1,1,1
+TIPCI,3C,TI Aplicadas a la Planeación y Control de Inventarios,Myrna Lezama,-,17--18,16--17,17--18,16--18,0,1.2,1,1,1.2,0,2,1,1,2
+TGTI3,3A,Tutoría Grupal - Individual,Myrna Lezama,-,16--17,-,15--16,-,0,1,0,0.789,0,0,2,0,3,0
+EIT,8A,Estudios de Ingeniería del Transporte,Myrna Lezama,15--16,14--16,13--14,13--14,13--14,0.879,0.967,0.879,0.879,0.829,1,2,1,1,5
+TGTI9,9A,Tutoría Grupal - Individual,Myrna Lezama,9--10,-,-,-,8--9,0.604,0,0,0,0.879,4,0,0,0,1
+TIPCI,3A,TI Aplicadas a la Planeación y Control de Inventarios,Héctor Armando Figueroa Urrea,17--19,17--18,-,-,16--18,1.2,1,0,0,1,2,1,0,0,1
+TGTI3,3B,Tutoría Grupal - Individual,Héctor Armando Figueroa Urrea,-,-,16--17,-,18--19,0,0,0.625,0,0.909,0,0,4,0,1
+TGTI8,8A,Tutoría Grupal - Individual,Héctor Armando Figueroa Urrea,-,-,17--18,16--17,-,0,0,0.879,0.879,0,0,0,1,1,0
+MTL,9A,Modelos de Transporte y Logística,Héctor Armando Figueroa Urrea,-,9--11,-,11--12,12--14,0,0.879,0,0.879,0.744,0,1,0,1,6
+MTL,9B,Modelos de Transporte y Logística,Héctor Armando Figueroa Urrea,10--11,-,9--10,9--11,14--15,0.879,0,0.879,0.763,0.967,1,0,1,3,2
+TGTI3,3C,Tutoría Grupal - Individual,Rafael Ordoñez,18--19,-,17--18,-,-,0.625,0,0.625,0,0,4,0,4,0,0
+AM,6A,Administración del Mantenimiento,Rafael Ordoñez,19--21,-,-,18--21,-,0.729,0,0,0.897,0,4,0,0,6,0
+AM,6B,Administración del Mantenimiento,Rafael Ordoñez,-,-,18--21,16--18,-,0,0,1,1.167,0,0,0,5,2,0
+OAR,8A,Operación de Almacenes de Refacciones.,Rafael Ordoñez,16--18,-,16--17,15--16,-,0.879,0,0.879,0.879,0,1,0,1,1,0
+TGTI9,9C,Tutoría Grupal - Individual,Rafael Ordoñez,-,-,-,10--11,9--10,0,0,0,0.604,0.604,0,0,0,4,4
+MAT,0A,Matematicas,Arminda Dorantes,12--13,12--13,12--14,12--13,12--13,1.053,1.212,1.143,0.833,0.833,3,1,5,4,4
+TSF,3A,Temas Slectos de Física,Arminda Dorantes,14--17,-,14--15,16--17,-,0.857,0,1,0.789,0,5,0,2,3,0
+TSF,3B,Temas Slectos de Física,Arminda Dorantes,18--19,14--15,18--19,17--18,14--15,1,0.909,0.625,0.625,0.909,2,1,4,4,1
+TSF,3C,Temas Slectos de Física,Arminda Dorantes,17--18,-,-,13--16,13--14,0.625,0,0,0.857,0.789,4,0,0,5,3
+IOT,3A,Introducción a la Operación del Transporte,Eduardo Cruz Padron,-,-,16--19,17--18,18--19,0,0,1,0.789,1,0,0,2,3,2
+IOT,3B,Introducción a la Operación del Transporte,Eduardo Cruz Padron,-,16--18,15--16,-,16--18,0,0.909,0.625,0,0.909,0,1,4,0,1
+IOT,3C,Introducción a la Operación del Transporte,Eduardo Cruz Padron,-,18--21,-,16--17,14--15,0,0.857,0,0.625,0.789,0,5,0,4,3
+OFT,8A,Operación de Flotas y Terminales.,Eduardo Cruz Padron,-,-,20--21,19--21,19--21,0,0,0.879,0.879,0.829,0,0,1,1,5
+MTL,9C,Modelos de Transporte y Logística,Eduardo Cruz Padron,-,-,13--14,11--12,11--14,0,0,0.967,0.604,1.036,0,0,2,4,7
+IE,8A,Ingeniería Económica.,Erick Guevara,19--21,19--21,19--20,-,-,0.879,0.879,0.879,0,0,1,1,1,0,0
+LDT,8A,Legislación y Derecho del Transporte,José Rodriguez,-,16--19,-,17--19,-,0,0.744,0,0.879,0,0,6,0,1,0
+GDE,9A,Gestión y dirección de empresas,José Rodriguez,7--8,-,-,12--13,9--12,0.604,0,0,0.879,0.879,4,0,0,1,1
+GDE,9B,Gestión y dirección de empresas,José Rodriguez,11--12,-,14--15,14--15,7--9,0.879,0,0.879,0.763,0.967,1,0,1,3,2
+GDE,9C,Gestión y dirección de empresas,José Rodriguez,14--15,14--15,8--9,7--8,14--15,0.967,0.763,0.604,0.604,0.604,2,3,4,4,4
+MAT,0C,Matematicas,Juan Carlos Estrada Omaña,12--14,12--15,12--13,-,-,1.026,1.143,1.026,0,0,6,5,6,0,0
+EP,6A,Ética Profesional,Juan Carlos Estrada Omaña,14--16,-,-,-,20--21,0.897,0,0,0,0.729,6,0,0,0,4
+EP,6B,Ética Profesional,Juan Carlos Estrada Omaña,-,15--16,16--18,-,-,0,0.729,0.921,0,0,0,4,3,0,0
+TICS,3A,TI Aplicadas a los Pronósticos en la Cadena de Suministro,Liliana Paredes,-,14--15,13--14,13--14,14--15,0,1,1,1,1,0,1,1,1,1
+TICS,3B,TI Aplicadas a los Pronósticos en la Cadena de Suministro,Liliana Paredes,14--15,15--16,-,14--16,-,1,1,0,1,0,1,1,0,1,0
+TICS,3C,TI Aplicadas a los Pronósticos en la Cadena de Suministro,Liliana Paredes,15--16,-,14--16,-,15--16,1,0,1,0,1.2,1,0,1,0,2
+ET,6A,Economía del Transporte,Milton,13--14,18--21,13--15,-,-,0.729,0.921,0.897,0,0,4,3,6,0,0
+ET,6B,Economía del Transporte,Milton,14--15,13--15,-,20--21,16--18,0.921,0.729,0,0.729,0.729,3,4,0,4,4
+TGTI9,9B,Tutoría Grupal - Individual,Milton,8--9,-,8--9,-,-,0.879,0,0.879,0,0,1,0,1,0,0
+MAT,0B,Matematicas,Juan Jesus Marines,14--15,12--15,-,13--15,-,0.833,1.026,0,1.026,0,4,6,0,6,0
+MAT,0D,Matematicas,Juan Jesus Marines,12--14,-,12--15,-,12--13,1.143,0,1.429,0,1.053,5,0,7,0,3
+DI,3A,Desarrollo interpersonal,Priscila,-,15--16,15--16,-,15--16,0,0.909,0.909,0,0.909,0,1,1,0,1
+DI,3B,Desarrollo interpersonal,Priscila,15--16,18--19,14--15,-,-,0.625,0.909,0.625,0,0,4,1,4,0,0
+DI,3C,Desarrollo interpersonal,Priscila,13--15,-,13--14,-,-,1,0,0.789,0,0,8,0,3,0,0
+AP,6A,Administración del Personal,Priscila,-,13--15,-,13--14,18--20,0,1.167,0,0.729,0.729,0,8,0,4,4
+AP,6B,Administración del Personal,Priscila,-,20--21,-,14--16,13--15,0,0.729,0,1.167,1.167,0,4,0,2,8
+SPL,3A,Simulación de Procesos Logísticos,Ramon Briseño,19--21,18--21,-,-,-,1,1,0,0,0,2,2,0,0,0
+SPL,3B,Simulación de Procesos Logísticos,Ramon Briseño,13--14,13--14,13--14,13--14,13--14,0.789,0.909,0.625,0.789,0.909,3,1,4,3,1
+SPL,3C,Simulación de Procesos Logísticos,Ramon Briseño,16--17,15--17,18--19,-,18--19,0.625,0.857,0.789,0,0.789,4,5,3,0,3
+LTA,8A,Logística Tráfico y Aduanas,Victor Bustos,18--19,-,18--19,-,16--19,0.879,0,0.879,0,0.829,1,0,1,0,5
+TU,9A,Transporte Urbano,Victor Bustos,10--12,-,-,13--15,14--15,0.604,0,0,1.036,0.744,4,0,0,7,6
+TU,9B,Transporte Urbano,Victor Bustos,14--15,-,-,11--12,11--14,0.879,0,0,0.763,0.967,1,0,0,3,2
+TU,9C,Transporte Urbano,Victor Bustos,-,10--12,10--12,-,10--11,0,0.763,0.604,0,0.604,0,3,4,0,4
+PE,6A,Planeación Estratégica,Victor Villeda,-,-,17--20,16--18,-,0,0,0.897,0.897,0,0,0,6,6,0
+PE,6B,Planeación Estratégica,Victor Villeda,-,18--20,15--16,18--20,-,0,0.729,0.921,0.729,0,0,4,3,4,0
+DFI,9A,Distribución Física Internacional,Victor Villeda,-,7--8,7--9,9--11,-,0,0.879,0.763,0.879,0,0,1,3,1,0
+DFI,9B,Distribución Física Internacional,Victor Villeda,-,10--12,10--11,7--9,-,0,0.604,0.879,0.763,0,0,4,1,3,0
+DFI,9C,Distribución Física Internacional,Victor Villeda,-,8--10,9--10,12--14,-,0,0.763,0.604,0.967,0,0,3,4,2,0
+TSD,6A,Transporte y Sistemas de Distribución,Eduardo Esparza,-,-,15--17,-,15--18,0,0,0.897,0,0.921,0,0,6,0,3
+TSD,6B,Transporte y Sistemas de Distribución,Eduardo Esparza,19--21,-,-,-,18--21,0.921,0,0,0,0.897,3,0,0,0,6
+SACD,9A,Seminario de Análisis de Casos y Decisiones,Eduardo Esparza,8--9,11--12,9--12,-,-,0.604,0.879,0.763,0,0,4,1,3,0,0
+SACD,9B,Seminario de Análisis de Casos y Decisiones,Eduardo Esparza,7--8,8--10,7--8,12--13,-,0.879,0.604,0.879,0.763,0,1,4,1,3,0
+SACD,9C,Seminario de Análisis de Casos y Decisiones,Eduardo Esparza,9--12,7--8,-,8--9,-,0.967,0.763,0,0.604,0,2,3,0,4,0
+TGTI0,0A,Tutoría Grupal - Individual,Violeta Castelan,-,-,-,14--15,13--14,0,0,0,0.833,0.833,0,0,0,4,4
+TGTI0,0D,Tutoría Grupal - Individual,Violeta Castelan,-,12--13,-,12--13,-,0,0.833,0,1.143,0,0,4,0,5,0
+I0,0A,Inglés 0,Profe Inglés 3,7--12,7--12,7--12,7--12,7--12,1.053,1.333,1.143,1.429,1.333,3,2,5,7,8
+I3,3C,Inglés 3,Profe Inglés 5,-,-,19--21,18--21,19--21,0,0,0.789,0.857,0.789,0,0,3,5,3
+I9,9B,Inglés 9,Profe Inglés 5,12--14,12--14,12--13,-,-,0.879,0.967,0.879,0,0,1,2,1,0,0
+I3,3B,Inglés 3,Profe Inglés 6,-,-,19--21,18--21,19--21,0,0,0.625,1,0.909,0,0,4,2,1
+I6,6A,Inglés 6,Profe Inglés 6,16--19,16--18,-,-,-,0.897,0.921,0,0,0,6,3,0,0,0
+I9,9C,Inglés 9,Profe Inglés 6,12--14,12--14,12--13,-,-,0.967,0.763,0.967,0,0,2,3,2,0,0
+I6,6B,Inglés 6,Profe Inglés 7,16--19,16--18,-,-,-,0.921,0.729,0,0,0,3,4,0,0,0
+I0,0D,Inglés 0,Profe Inglés 8,7--12,7--12,7--12,7--12,7--12,1.143,1.429,1.429,1.143,1.053,5,7,7,5,3
+I0,0C,Inglés 0,Profe Inglés 9,7--12,7--12,7--12,7--12,7--12,1.026,1.143,1.026,1.026,1.143,6,5,6,6,5
+I9,9A,Inglés 9,Profe Inglés 11,12--14,12--14,12--13,-,-,1.036,1.036,0.763,0,0,7,7,3,0,0
+I3,3A,Inglés 3,Profe Inglés 12,-,-,19--21,18--21,19--21,0,0,1,0.789,1,0,0,2,3,2
+I8,8A,Inglés 8,Profe Inglés 12,-,-,14--16,14--15,14--16,0,0,0.829,0.879,0.829,0,0,5,1,5
+I0,0B,Inglés 0,Profe Inglés 13,7--12,7--12,7--12,7--12,7--12,1.429,1.026,1.333,1.333,1.026,7,6,2,2,6
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,75,74,77,74,74,84,84,84,84,84
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,0.892857142857143,0.880952380952381,0.916666666666667,0.880952380952381,0.880952380952381,1,1,1,1,1

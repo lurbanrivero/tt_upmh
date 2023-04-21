@@ -1,0 +1,35 @@
+Horario del profesor 
+Profesor 14
+ 
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,CCS 1D,CCS 1D,,,,
+12-13,CCS 1A,,CCS 1A,CCS 1A,,
+13-14,LTS 7B,HP 4A,CCS 1D,LTS 7A,,
+14-15,LTS 7B,LTS 7B,CCS 1D,CCS 1D,,
+15-16,,CCS 1A,LTS 7A,LTS 7B,,
+16-17,LTS 7A,CCS 1A,HP 4C,LTS 7B,,
+17-18,LTS 7A,LTS 7A,HP 4A,HP 4C,,
+18-19,HP 4C,,,HP 4A,,
+19-20,,,,,,
+20-21,,,,,,
+
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,1,1,,,,
+12-13,1,,1,1,,
+13-14,1,1,1,1,,
+14-15,1,1,1,1,,
+15-16,,1,1,1,,
+16-17,1,1,1,1,,
+17-18,1,1,1,1,,
+18-19,1,,,1,,
+19-20,,,,,,
+20-21,,,,,,
+CCS:0,CCS:0,HP:4,HP:4,LTS:2,LTS:2,

@@ -1,0 +1,35 @@
+Horario del profesor 
+Profesor 6
+ 
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,AL 1B,AL 1D,AL 1D,AL 1D,,
+8-9,AL 1B,AL 1A,AL 1D,AL 1B,,
+9-10,,,,,AL 1A,
+10-11,,,,,AL 1A,
+11-12,,,,,AL 1C,
+12-13,,,AL 1B,AL 1C,AL 1C,
+13-14,,,AL 1C,AL 1C,AL 1D,
+14-15,,,AL 1C,AL 1A,AL 1D,
+15-16,,,AL 1A,AL 1A,AL 1B,
+16-17,,,,,AL 1B,
+17-18,,,,,,
+18-19,,,,,,
+19-20,,,,,,
+20-21,,,,,,
+
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,1,1,1,1,,
+8-9,1,1,1,1,,
+9-10,,,,,1,
+10-11,,,,,1,
+11-12,,,,,1,
+12-13,,,1,1,1,
+13-14,,,1,1,1,
+14-15,,,1,1,1,
+15-16,,,1,1,1,
+16-17,,,,,1,
+17-18,,,,,,
+18-19,,,,,,
+19-20,,,,,,
+20-21,,,,,,
+AL:0,AL:0,AL:0,AL:0,

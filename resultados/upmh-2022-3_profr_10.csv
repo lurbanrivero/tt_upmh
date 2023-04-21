@@ -1,0 +1,35 @@
+Horario del profesor 
+Profesor 11
+ 
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,,,,,,
+12-13,MCO 4C,,VS 1D,MCO 4C,MCO 4A,
+13-14,MCO 4C,VS 1B,MCO 4B,MCO 4C,MCO 4A,
+14-15,,VS 1B,MCO 4B,MCO 4B,VS 1B,
+15-16,VS 1D,MCO 4B,MCO 4A,MCO 4B,,
+16-17,MCO 4A,MCO 4B,MCO 4A,VS 1D,MCO 4C,
+17-18,MCO 4A,,,,MCO 4C,
+18-19,,,,,,
+19-20,,,,,,
+20-21,,,,,,
+
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,,,,,,
+12-13,1,,1,1,1,
+13-14,1,1,1,1,1,
+14-15,,1,1,1,1,
+15-16,1,1,1,1,,
+16-17,1,1,1,1,1,
+17-18,1,,,,1,
+18-19,,,,,,
+19-20,,,,,,
+20-21,,,,,,
+VS:0,VS:0,MCO:1,MCO:1,MCO:1,

@@ -1,0 +1,35 @@
+Horario del profesor 
+Profesor 5
+ 
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,,,FCS 1B,FCS 1C,,
+12-13,FCS 1C,,,,,
+13-14,FCS 1C,,FCS 1A,,FCS 1B,
+14-15,FCS 1B,FCS 1A,,FCS 1B,FCS 1A,
+15-16,FCS 1A,FCS 1D,FCS 1D,FCS 1B,FCS 1C,
+16-17,FCS 1D,FCS 1C,FCS 1D,FCS 1A,FCS 1D,
+17-18,,TGTI4 4B,,,,
+18-19,,,TGTI4 4B,,,
+19-20,,,,,,
+20-21,,,,,,
+
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,,,1,1,,
+12-13,1,,,,,
+13-14,1,,1,,1,
+14-15,1,1,,1,1,
+15-16,1,1,1,1,1,
+16-17,1,1,1,1,1,
+17-18,,1,,,,
+18-19,,,1,,,
+19-20,,,,,,
+20-21,,,,,,
+FCS:0,FCS:0,FCS:0,FCS:0,TGTI4:2,

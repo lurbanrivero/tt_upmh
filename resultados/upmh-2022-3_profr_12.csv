@@ -1,0 +1,35 @@
+Horario del profesor 
+Profesor 13
+ 
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,APE 1D,APE 1B,APE 1C,APE 1A,APE 1C,
+8-9,APE 1D,APE 1B,APE 1A,APE 1C,,
+9-10,,,,,APE 1B,
+10-11,,,,,APE 1D,
+11-12,APE 1C,APE 1C,APE 1D,APE 1D,APE 1A,
+12-13,,,,APE 1B,APE 1A,
+13-14,,APE 1A,,APE 1B,,
+14-15,,,,,,
+15-16,,,,,,
+16-17,,,,,,
+17-18,,,,,,
+18-19,,,,,,
+19-20,,,,,,
+20-21,,,,,,
+
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,1,1,1,1,1,
+8-9,1,1,1,1,,
+9-10,,,,,1,
+10-11,,,,,1,
+11-12,1,1,1,1,1,
+12-13,,,,1,1,
+13-14,,1,,1,,
+14-15,,,,,,
+15-16,,,,,,
+16-17,,,,,,
+17-18,,,,,,
+18-19,,,,,,
+19-20,,,,,,
+20-21,,,,,,
+APE:0,APE:0,APE:0,APE:0,

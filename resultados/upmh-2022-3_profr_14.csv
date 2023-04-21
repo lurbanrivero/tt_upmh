@@ -1,0 +1,35 @@
+Horario del profesor 
+Profesor 15
+ 
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,DFI 9A,,,,DFI 9A,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,,,,,TGTI1 1D,
+12-13,,STFC 4B,STFC 4C,,STFC 4C,
+13-14,,DFI 9A,,TGTI1 1D,,
+14-15,TGTI1 1C,,,,STFC 4A,
+15-16,,STFC 4A,DFI 9A,DFI 9A,STFC 4A,
+16-17,STFC 4C,,DFI 9A,TGTI1 1C,,
+17-18,,STFC 4C,,STFC 4B,STFC 4B,
+18-19,STFC 4A,STFC 4C,STFC 4A,STFC 4B,STFC 4B,
+19-20,,,,,,
+20-21,,,,,,
+
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,0,,,,0,
+8-9,,,,,,
+9-10,,,,,,
+10-11,,,,,,
+11-12,,,,,1,
+12-13,,1,1,,1,
+13-14,,1,,1,,
+14-15,1,,,,1,
+15-16,,1,1,1,1,
+16-17,1,,1,1,,
+17-18,,1,,1,1,
+18-19,1,1,1,1,1,
+19-20,,,,,,
+20-21,,,,,,
+TGTI1:4,TGTI1:4,STFC:2,STFC:2,STFC:2,DFI:0,

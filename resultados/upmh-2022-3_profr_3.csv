@@ -1,0 +1,35 @@
+Horario del profesor 
+Profesor 4
+ 
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,TU 9A,,TU 9A,TU 9A,
+10-11,,TU 9A,,TU 9A,TU 9A,
+11-12,TGTI1 1A,TGTI1 1A,,,,
+12-13,,,,,,
+13-14,IT 7A,,,,IT 7A,
+14-15,,,,IT 7B,IT 7A,
+15-16,TU 9A,IT 7A,,TGTI4 4A,,
+16-17,IT 7B,IT 7A,IT 7B,,IT 7B,
+17-18,IT 7B,,,,TGTI4 4A,
+18-19,,,,,,
+19-20,,,,,,
+20-21,,,,,,
+
+Hora/Dia,Lunes,Martes,Miercoles,Jueves,Viernes
+7-8,,,,,,
+8-9,,,,,,
+9-10,,1,,1,1,
+10-11,,1,,1,1,
+11-12,1,1,,,,
+12-13,,,,,,
+13-14,1,,,,1,
+14-15,,,,1,1,
+15-16,1,1,,1,,
+16-17,1,1,1,,1,
+17-18,1,,,,1,
+18-19,,,,,,
+19-20,,,,,,
+20-21,,,,,,
+TGTI1:4,TGTI4:5,IT:1,IT:1,TU:0,
